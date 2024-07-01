@@ -1,13 +1,15 @@
+
 :root{
-    --cor-fundo: #01080E ;
-    --cor-principal: #0B0D20 ;
-    --cor-secundaria: #212333; 
-    --cor-destaque: #2BDEFD;
-    --cor-texto: #D7F9FF;
+    --cor-fundo: #041b02 ;
+    --cor-principal: #031402 ;
+    --cor-secundaria: #ffffff; 
+    --cor-destaque: #ffd79b;
+    --cor-texto: #ffd79b;
 
 }
 
 body {
+    background-image: url(—Pngtree—military\ texture\ camouflage\ background_1343222.png);
     background-color: var(--cor-fundo);
     color: var(--cor-texto);
     display: flex;

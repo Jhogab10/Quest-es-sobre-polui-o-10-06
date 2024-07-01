@@ -10,24 +10,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "sou leigo neste assunto!",
-                afirmacao: "afimação"
+                afirmacao: "Vamos aprender mais sobre?"
             },
             {
                 texto: "obtenho este conhecimento!",
-                afirmacao: "afirmação"
+                afirmacao: "Ótimo, vamos conhecer mais sobre."
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "A poluição atmosférica é um problema novo???",
         alternativas: [
             {
                 texto: "Sim!!!",
-                afirmacao: "afirmação"
+                afirmacao: "Sim, só agora que está começando a poluição,"
             },
             {
-                texto: "Não!!!",
-                afirmacao: "afirmação"
+                texto: "Não, esse problema ja vem de muito tempo",
+                afirmacao: "A poluição ja vem desde quando as industrias foram criadas."
             }
         ]
     },
@@ -35,12 +35,12 @@ const perguntas = [
         enunciado: "Realiza alguma ativida para a preservação do ambiente?",
         alternativas: [
             {
-                texto: "SIM! REALIZO",
-                afirmacao: "afirmação"
+                texto: "Sim, toda semana...",
+                afirmacao: "Realizar atividades que enibem a emissão de carbono é a melhor coisa e"
             },
             {
-                texto: "NÃO! NÃO AJUDO",
-                afirmacao: "afirmação"
+                texto: "Não, de modo algum...",
+                afirmacao: "essa historia de emissão de carbono é lorota"
             }
         ]
     },
@@ -48,25 +48,25 @@ const perguntas = [
         enunciado: "Prejudica de alguma forma o meio ambiente?",
         alternativas: [
             {
-                texto: "SIM! Prejudico",
-                afirmacao: "afirmação"
+                texto: "Infelizmente sim...",
+                afirmacao: "Prejudicar o meio-ambiente é a melhor coisa"
             },
             {
-                texto: "NÃO! NÃo Prejudico",
-                afirmacao: "afirmação"
+                texto: "Não isso não faz parte de mim...",
+                afirmacao: "é preciso se concientizar sobre as nossas poluições."
             }
         ]
     },
     {
-        enunciado: "Você acredita na melhora ambiental a curto prazo? ",
+        enunciado: "Você acredita na melhora ambiental a curto prazo?",
         alternativas: [
             {
-                texto: "SIM! temos capacidade",
-                afirmacao: "afirmação"
+                texto: "Sim, acredito que somos capazes de melhorar a situação atual...",
+                afirmacao: "Com muito esforço somos sim, capazes de melhorar o planeta."
             },
             {
-                texto: "NÃO! nao temos condições",
-                afirmacao: "afirmação"
+                texto: "Não, cada vez mais estamos destuindo o planeta...",
+                afirmacao: "quanto mais destruir o planeta melhor"
             }
         ]
     },
